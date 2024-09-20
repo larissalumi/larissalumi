@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @larissalumi
-- 👀 I’m interested in back-end and database
-- 🌱 I’m currently learning C, and also Excel
+- 👀 I’m interested in back-end and machine learning
+- 🌱 I’m currently learning C, Excel and Python
 - 📫 How to reach me: larissalumih@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm obssessed with Excel and Notion, if I didn't have classes and many many hobbies I would make and sell different templates all day!
+- ⚡ Fun fact: I really love cats
 
 <!---
 larissalumi/larissalumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
