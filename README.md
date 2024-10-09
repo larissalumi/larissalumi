@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B086FF&width=435&lines=Hi+my+name+is+Larissa!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D8A7E0&width=435&lines=Hi+my+name+is+Larissa!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 👋 I’m a brazillian student that's currently on her first year of college c:
 - 👀 I’m interested in back-end and machine learning, but I'm always trying to expand my knowledge
